@@ -23,3 +23,5 @@ B --> C{Configure Network Tab}
 C --> D[Disable Cache]
 C --> E[Preserve Log]
 D & E --> F[Reload Page & Analyze]
+```
+
